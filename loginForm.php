@@ -1,4 +1,5 @@
 <?php
+// git test
 // Start the session
 	session_start();
 // Create a database connection
